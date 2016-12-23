@@ -18,5 +18,11 @@
        android:layout_width="match_parent"
        android:layout_height="wrap_content"/>
 
+   <Button
+       android:text="变换操作符"
+       android:onClick="changeOperators"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"/>
+
 
 </LinearLayout>

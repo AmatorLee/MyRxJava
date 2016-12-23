@@ -19,6 +19,7 @@
         </activity>
         <activity android:name=".CreateActivity">
         </activity>
+        <activity android:name=".ChangeActivity"/>
     </application>
 
 </manifest>

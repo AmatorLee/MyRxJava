@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity  {
     public void createOperators(View view){
         startActivity(new Intent(MainActivity.this,CreateActivity.class));
     }
+
+    public void changeOperators(View view){
+        startActivity(new Intent(MainActivity.this,ChangeActivity.class));
+    }
 }
