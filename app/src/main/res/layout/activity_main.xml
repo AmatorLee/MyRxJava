@@ -25,4 +25,10 @@
        android:layout_height="wrap_content"/>
 
 
+   <Button
+       android:text="过滤操作符"
+       android:onClick="flitOperators"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"/>
+
 </LinearLayout>

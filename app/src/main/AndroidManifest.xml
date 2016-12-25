@@ -20,6 +20,8 @@
         <activity android:name=".CreateActivity">
         </activity>
         <activity android:name=".ChangeActivity"/>
+        <activity android:name=".FiltActivity">
+        </activity>
     </application>
 
 </manifest>

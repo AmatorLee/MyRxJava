@@ -21,4 +21,7 @@ public class MainActivity extends AppCompatActivity  {
     public void changeOperators(View view){
         startActivity(new Intent(MainActivity.this,ChangeActivity.class));
     }
+    public void flitOperators(View v){
+        startActivity(new Intent(MainActivity.this,FiltActivity.class));
+    }
 }
